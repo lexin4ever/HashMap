@@ -1,0 +1,11 @@
+{
+  "name": "HashMap",
+  "version": "0.0.0",
+  "description": "HashMap class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexey Kuznetsov <lexin4ever@gmail.com>",
+  "license": "ISC"
+}
